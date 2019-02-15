@@ -72,7 +72,7 @@ p {
 }
 
 .logo {
-    padding: 0 0 0 218px;
+    padding-left: 14%;
 }
 
 header nav {
@@ -92,7 +92,7 @@ header nav {
 
 
 .big-picture {
-    margin-left: 395px;
+    margin-left: 25%;
     margin-bottom: 20px;
 }
 
@@ -143,6 +143,9 @@ nav a {
     align-items: center;
     justify-content: center;
 }
+
+
+
 .bottom-content {
     display: flex;
     margin: 0 2% 20px;
@@ -243,3 +246,7 @@ button {
     margin-left:24%;
     margin-top: 30px;
 }
+h2 {
+    margin-top: 10px;
+}
+
